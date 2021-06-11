@@ -1,4 +1,4 @@
-package com.blog.testproject.service;
+package com.bookshelf.testproject.service;
 
 public class Greeting {
 
